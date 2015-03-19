@@ -1,0 +1,12 @@
+{
+    "name": "krisanalfa/docker-php-fpm",
+    "profile": "docker",
+
+    "docker": {
+        "containers": {
+            "root": {
+
+            }
+        }
+    }
+}
